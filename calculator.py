@@ -7,3 +7,6 @@ def subtract(a, b):
 
 def mutiply(a, b):
 	return a*b # 수정사항 없음.
+
+def divdie(a, b):
+	return a/b
