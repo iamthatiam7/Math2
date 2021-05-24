@@ -9,4 +9,4 @@ def mutiply(a, b):
 	return a*b 
 
 def divdie(a, b):
-	return a//b # 연습용으로 다시합니다.
+	return a/b #재수정
