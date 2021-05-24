@@ -6,7 +6,7 @@ def subtract(a, b):
 	return a-b
 
 def mutiply(a, b):
-	return a*b # 수정사항 없음.
+	return a*b 
 
 def divdie(a, b):
-	return a/b
+	return a//b # 연습용으로 다시합니다.
