@@ -8,5 +8,5 @@ def subtract(a, b):
 def mutiply(a, b):
 	return a*b 
 
-def divdie(a, b):
+def divide_premium(a, b):
 	return a/b #재수정
