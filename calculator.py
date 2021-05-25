@@ -8,5 +8,7 @@ def subtract(a, b):
 def mutiply(a, b):
 	return a*b 
 
-def divdie_free(a, b):
-	return a/b #재수정
+def divide_new(a, b):
+	return a/b
+def square(a):
+	return a*a
