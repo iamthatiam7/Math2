@@ -10,3 +10,4 @@ def mutiply(a, b):
 
 def divdie_free(a, b):
 	return a/b #재수정
+
